@@ -3,7 +3,6 @@ FROM mysql
 ENV MYSQL_ROOT_PASSWORD root
 ENV MYSQL_DATABASE TRENDS
 
-
 RUN mkdir /usr/sql
 RUN chmod 644 /usr/sql
 
