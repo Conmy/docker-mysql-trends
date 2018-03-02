@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -d -p 3306:3306 me.conmy.trends.database:0.1
+docker run -d -p 3306:3306 me.conmy.trends.database:0.2
